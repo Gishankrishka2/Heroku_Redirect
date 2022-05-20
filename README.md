@@ -1,4 +1,4 @@
-# Heroku_Redirect
+# Heroku Redirect
 
 
 This is a simple website to get the heroku deploy link from a github repository 
